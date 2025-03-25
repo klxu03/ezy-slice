@@ -1,0 +1,8 @@
+{
+    "name": "com.kevin.ezyslice",
+    "version": "1.0.0",
+    "displayName": "EzySlice",
+    "description": "A mesh slicing library for Unity.",
+    "unity": "2019.1",
+    "dependencies": {}
+}
